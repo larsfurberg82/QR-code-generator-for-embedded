@@ -5,6 +5,8 @@ directly into the same project, so there's no P/Invoke, no separate
 native DLL, and no interop shim file needed anymore. One project, 
 open it in Visual Studio, hit run.
 
+![qrdemo.png](qrdemo.png)
+
 ## Layout
 
 ```
